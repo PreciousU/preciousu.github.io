@@ -25,6 +25,6 @@ Led the deployment of Microsoft 365 Business tools across Bonnedo Engineering:
 AWS · Microsoft 365 · Azure · SAP · Power Platform · IAM · DevSecOps · Linux/Windows Servers · Security Awareness & Training
 
 ## Contact  
-📧 [LinkedIn Profile](https://www.linkedin.com/in/preciousudeze/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/preciousudeze/)
 📧 udezeprecious3@gmail.com
 📞 +2349080032746
