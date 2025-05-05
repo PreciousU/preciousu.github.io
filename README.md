@@ -15,9 +15,9 @@ While at Oilserv Limited, I contributed to the successful migration of core infr
 **Impact**: Enhanced system reliability, improved backup and recovery processes, and reduced operational costs.
 
 ### Microsoft 365 Rollout and Automation  
-Led the deployment of Microsoft 365 Business tools across the organisation:
+Led the deployment of Microsoft 365 Business tools across Bonnedo Engineering:
 - Teams, SharePoint, OneDrive, and Power Apps  
-- Automated cash and procurement approval workflows  
+- Assisted in automated cash and procurement approval workflows  
 
 **Outcome**: Improved collaboration and workflow efficiency across departments.
 
