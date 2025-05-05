@@ -1,7 +1,7 @@
 # Precious Udeze  
-Cloud and Cybersecurity Professional | Building secure, scalable digital systems
+**Cloud and Cybersecurity Professional | Building secure, scalable digital systems**
 
-Welcome to my portfolio. I help businesses modernize infrastructure and operations through cloud-native technologies, with a focus on security, scalability, and operational efficiency.
+Welcome to my portfolio. I help businesses modernise infrastructure and operations through cloud-native technologies, focusing on security, scalability, and operational efficiency.
 
 ## Projects
 
@@ -15,7 +15,7 @@ While at Oilserv Limited, I contributed to the successful migration of core infr
 **Impact**: Enhanced system reliability, improved backup and recovery processes, and reduced operational costs.
 
 ### Microsoft 365 Rollout and Automation  
-Led the deployment of Microsoft 365 Business tools across the organization:
+Led the deployment of Microsoft 365 Business tools across the organisation:
 - Teams, SharePoint, OneDrive, and Power Apps  
 - Automated cash and procurement approval workflows  
 
