@@ -26,3 +26,5 @@ AWS · Microsoft 365 · Azure · SAP · Power Platform · IAM · DevSecOps · Li
 
 ## Contact  
 📧 [LinkedIn Profile](https://www.linkedin.com/in/preciousudeze/)
+📧 udezeprecious3@gmail.com
+📞 +2349080032746
