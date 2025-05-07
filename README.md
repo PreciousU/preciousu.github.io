@@ -5,7 +5,7 @@ Welcome to my portfolio. I help businesses modernise infrastructure and operatio
 
 ## 💼 What I've Done (So Far...)
 
-While at **Oilserv Limited**, I wore multiple hats—and I wore them well:
+While at **Oilserv Limited**, I wore multiple hats and I wore them well:
 
 ### ☁️ Cloud Projects  
 Led the seamless migration of mission-critical infrastructure to AWS, including:  
