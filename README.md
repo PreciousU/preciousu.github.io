@@ -1,7 +1,7 @@
 # Precious Udeze  
 **Cloud enthusiast ☁️ | Cybersecurity advocate 🛡️ | ESG champion 🌍 | Always curious. Always building.**
 
-Welcome to my portfolio. I help businesses modernise infrastructure and operations through cloud-native technologies, focusing on security, scalability, and operational efficiency.
+Welcome to my portfolio. I help businesses modernise infrastructure and operations through sustainable cloud-native technologies, focusing on security, scalability, and operational efficiency.
 
 ## 💼 What I've Done (So Far...)
 
