@@ -1,5 +1,5 @@
 # Precious Udeze  
-**Cloud enthusiast ☁️ | Cybersecurity advocate 🛡️ | ESG champion 🌍 | Always curious. Always building.**
+**Cloud enthusiast ☁️ | Cybersecurity advocate 🛡️ | ESG champion 🌍 | Content Writer ✍️ | Always curious. Always building.**
 
 Welcome to my portfolio. I help businesses modernise infrastructure and operations through sustainable cloud-native technologies, focusing on security, scalability, and operational efficiency.
 
@@ -49,6 +49,11 @@ Led the deployment of Microsoft 365 Business tools across Bonnedo Engineering & 
 - Assisted in automated cash and procurement approval workflows  
 
 **Outcome**: Improved collaboration and workflow efficiency across departments.
+
+### 🌐 TN&Masters Website  
+Championed the content structure and delivery of the TN&Masters corporate website, ensuring clear messaging, engaging layout, and alignment with brand goals.  
+
+**Outcome**: Delivered a clean, professional site that elevated the company’s digital presence and clarified its service offerings.
 
 ## 🚀 What I’m Exploring Now  
 Post-Oilserv, I’m deepening my skills in **cloud computing** and building a portfolio of personal and enterprise-focused projects.
