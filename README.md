@@ -41,7 +41,7 @@ Led the seamless migration of mission-critical infrastructure to AWS, including:
 
 **Impact**: Modernised corporate communications and onboarding tools, making them engaging, clear, and user-friendly.
 
-***Personal Project outside of Oilserv***
+***Personal Projects outside of Oilserv***
 
 ### 💼 Microsoft 365 Rollout and Automation  
 Led the deployment of Microsoft 365 Business tools across Bonnedo Engineering & General Services Limited:
